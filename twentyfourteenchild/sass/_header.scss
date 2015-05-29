@@ -1,0 +1,52 @@
+.header-main {
+	background-color: green;
+}
+
+#unesa-circle {
+	height: 45px;
+	width: 40px;
+	position: relative;
+	background-image: url("img/logo-circle.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	top: 6px;
+	float: left;
+}
+
+#unesa-text {
+	background-image: url("img/logo-text.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 40px;
+	width: 90px;
+	float: left;
+	margin-top: 15px;
+	margin-left: 10px;
+}
+
+
+/* HEADER */
+
+.header-main {
+	height: 52px;
+}
+
+
+/* Header Nav */
+
+.primary-navigation {
+	clear: both;
+}
+
+.primary-navigation.toggled-on {
+	background-color: #333;
+
+}
+
+.primary-navigation ul a {
+	transition: all 0.2s;
+	&:hover {
+	background-color: #24890d;
+	color: #fff;
+	}
+}

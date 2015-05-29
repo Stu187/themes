@@ -1,0 +1,162 @@
+.header-main {
+  background-color: green; }
+
+#unesa-circle {
+  height: 45px;
+  width: 40px;
+  position: relative;
+  background-image: url("img/logo-circle.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  top: 6px;
+  float: left; }
+
+#unesa-text {
+  background-image: url("img/logo-text.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 40px;
+  width: 90px;
+  float: left;
+  margin-top: 15px;
+  margin-left: 10px; }
+
+/* HEADER */
+.header-main {
+  height: 52px; }
+
+/* Header Nav */
+.primary-navigation {
+  clear: both; }
+
+.primary-navigation.toggled-on {
+  background-color: #333; }
+
+.primary-navigation ul a {
+  transition: all 0.2s; }
+  .primary-navigation ul a:hover {
+    background-color: #24890d;
+    color: #fff; }
+
+#page {
+  margin-left: auto;
+  margin-right: auto; }
+
+@media screen and (min-width: 1080px) {
+  #primary {
+    max-width: 1500px; } }
+
+.csgridcontainer {
+  width: 90%;
+  height: 100%;
+  float: left;
+  text-align: center;
+  padding-left: 10%;
+  margin-bottom: 30px; }
+  @media screen and (max-width: 400px) {
+    .csgridcontainer {
+      max-width: 100%;
+      padding: 0 0;
+      text-align: center; } }
+
+.csgrid {
+  display: inline-block;
+  height: 165px;
+  width: 180px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  float: left;
+  transition: all 0.5s;
+  overflow: hidden;
+  padding-top: 15px; }
+  .csgrid:hover {
+    border: 1px solid black;
+    border-radius: 50%; }
+    .csgrid:hover p {
+      opacity: 0; }
+    .csgrid:hover .one-line {
+      margin-top: -130px;
+      font-size: 1.6em;
+      opacity: 1; }
+    .csgrid:hover .two-line {
+      margin-top: -140px;
+      opacity: 1; }
+    .csgrid:hover .three-line {
+      margin-top: -150px;
+      opacity: 1; }
+    .csgrid:hover .four-line {
+      margin-top: -160px;
+      opacity: 1; }
+  .csgrid p {
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+    transition: all 0.7s; }
+    @media screen and (max-width: 400px) {
+      .csgrid p {
+        display: inline-block;
+        vertical-align: text-bottom;
+        height: 30px;
+        width: 150px;
+        background-color: #777;
+        opacity: 0.8;
+        text-align: center; }
+        .csgrid .csgrid p {
+          margin-left: auto;
+          margin-right: auto; } }
+
+.grid {
+  opacity: 0;
+  transition: all 0.5s; }
+
+#grid1 {
+  background-image: url("img/CSLogos/unews.png");
+  background-repeat: no-repeat;
+  background-size: contain; }
+
+#grid2 {
+  background-image: url("img/CSLogos/lss.png");
+  background-repeat: no-repeat;
+  background-size: contain; }
+
+#grid3 {
+  background-image: url("img/CSLogos/gsma.png");
+  background-repeat: no-repeat;
+  background-size: contain; }
+
+#grid4 {
+  background-image: url("img/CSLogos/townies.png");
+  background-repeat: no-repeat;
+  background-size: contain; }
+
+#grid5 {
+  background-image: url("img/CSLogos/aiabp.png");
+  background-repeat: no-repeat;
+  background-size: contain; }
+
+#grid6 {
+  background-image: url("img/CSLogos/msa.png");
+  background-repeat: no-repeat;
+  background-size: contain; }
+
+#grid7 {
+  background-image: url("img/CSLogos/mums.png");
+  background-repeat: no-repeat;
+  background-size: contain; }
+
+#grid8 {
+  background-image: url("img/CSLogos/enactus.png");
+  background-repeat: no-repeat;
+  background-size: contain; }
+
+#grid9 {
+  background-image: url("img/CSLogos/ffutures.png");
+  background-repeat: no-repeat;
+  background-size: contain; }
+
+#grid10 {
+  background-image: url("img/CSLogos/isa.png");
+  background-repeat: no-repeat;
+  background-size: contain; }

@@ -9,10 +9,9 @@ Version: 1.0
 */
 
 @import "../twentyfourteen/style.css";
+@import "../twentyfourteenchild/sass-style.css";
 
-.header-main {
-	background-color: green;
-}
+
 
 #secondary {
 	background-color: #333

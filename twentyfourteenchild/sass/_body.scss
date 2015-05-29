@@ -1,0 +1,14 @@
+// Centering the Page
+
+#page {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+#primary {
+  @media screen and (min-width: 1080px) {
+    max-width: 1500px;
+  }
+
+}

@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "18966",
+"creatorBuild": "19033",
 "files": {
 	"\/index.php": {
 		"fileType": 8192,
@@ -886,6 +886,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/twentyfourteenchild\/footer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/footer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/twentyfourteenchild\/header.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -894,6 +903,182 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/aiabp.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65147,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/aiabp.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/aiabp.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/enactus.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27586,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/enactus.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/enactus.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/ffutures.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27439,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/ffutures.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/ffutures.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/gsma.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40330,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/gsma.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/gsma.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/isa.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63255,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/isa.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/isa.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/lss.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50732,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/lss.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/lss.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/msa.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39234,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/msa.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/msa.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/mums.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56940,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/mums.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/mums.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/townies.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57548,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/townies.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/townies.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/unews.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25554,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/unews.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/unews.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/landscape\/landscape-back.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 527664,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/landscape\/landscape-back.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/landscape\/landscape-back.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/landscape\/landscape-front.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 168824,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/landscape\/landscape-front.jpg",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/landscape\/landscape-front.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/landscape\/landscape-front.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 635446,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/landscape\/landscape-front.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/landscape\/landscape-front.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/landscape\/landscape-front2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37720,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/landscape\/landscape-front2.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/landscape\/landscape-front2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/landscape\/sidebar-landscape-back.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/landscape\/sidebar-landscape-back.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/landscape\/sidebar-landscape-back.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/landscape\/sidebar-landscape-front.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106969,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/landscape\/sidebar-landscape-front.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/landscape\/sidebar-landscape-front.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/twentyfourteenchild\/img\/logo-circle.png": {
 		"fileType": 32768,
@@ -913,6 +1098,83 @@
 		"initialSize": 30524,
 		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/logo-text.png",
 		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/logo-text.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/nucleus-logo-black.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71013,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/nucleus-logo-black.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/nucleus-logo-black.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/nucleus-logo-white.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26401,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/nucleus-logo-white.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/nucleus-logo-white.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/nucleus-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75012,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/nucleus-logo.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/nucleus-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/tune-logo-black-small.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 118626,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/tune-logo-black-small.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/tune-logo-black-small.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/tune-logo-white-small.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124844,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/tune-logo-white-small.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/tune-logo-white-small.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/tune-logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.45384e+07,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/tune-logo.jpg",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/tune-logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/tune-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14156,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/tune-logo.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/tune-logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1034,6 +1296,22 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/twentyfourteenchild\/sass\/_sidebar.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/sass\/_sidebar.scss",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/css\/_sidebar.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/twentyfourteenchild\/sass\/style.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -1049,6 +1327,15 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
+		},
+	"\/twentyfourteenchild\/sidebar.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/sidebar.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/twentyfourteenchild\/style.css": {
 		"fileType": 16,
@@ -1950,7 +2237,7 @@
 	"coffeeMinifyOutput": 1,
 	"coffeeOutputStyle": 0,
 	"coffeeSyntaxCheckerStyle": 1,
-	"externalServerAddress": "http:\/\/exampledev.com\/unesa",
+	"externalServerAddress": "http:\/\/localhost\/unesa\/",
 	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
 	"hamlAutoOutputPathEnabled": 1,

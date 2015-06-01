@@ -13,9 +13,7 @@ Version: 1.0
 
 
 
-#secondary {
-	background-color: #333
-}
+
 
 
 /* Fixing Search Box issue - extending too far to the left */
@@ -33,10 +31,4 @@ Version: 1.0
 	.search-box .search-field {
 		width: 324px;
 	}
-}
-
-/* Fixing left sidebar extention color change */
-
-.hfeed:before {
-	background-color: #333;
 }

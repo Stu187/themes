@@ -1,0 +1,117 @@
+
+
+// Links Sidebar
+
+#secondary {
+  color: white;
+  text-align: center;
+  @media screen and (min-width: 1008px) and (max-width: 1079px) {
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 162px;
+  }
+}
+
+@media screen and (max-width: 1007px) {
+  .unesa-sidebar {
+  display: none;
+  }
+  .nucleus-sidebar,
+  .tune-sidebar,
+  .uni4me-sidebar {
+    display: inline-block;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-bottom: 30px;
+  }
+}
+
+.unesa-sidebar {
+  height: 152px;
+  width: 160px;
+  margin-top: 15px;
+  text-align: center;
+  background-image: url('img/logo-circle.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  transition: all 1s ease;
+  text-align: center;
+  &:hover {
+    transform: rotate(360deg);
+  }
+  &:hover + .unesa-sidebar-text {
+    opacity: 1;
+  }
+}
+
+.unesa-sidebar-text {
+  position: absolute;
+  height: 40px;
+  width: 150px;
+  margin-left: 5px;
+  margin-top: -97px;
+  background-image: url('img/logo-text.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 1;
+  -webkit-filter: drop-shadow(5px 5px 8px #000);
+  transition: all 1s ease;
+  &:hover {
+    opacity: 1;
+  }
+  &:hover + .unesa-sidebar {
+    transform: rotate(360deg);
+  }
+}
+
+.nucleus-sidebar {
+  height: 50px;
+  margin-top: 40px;
+  text-align: center;
+  .nucleus-logo {
+    height: 100%;
+    width: 160px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url('img/nucleus-logo-white.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}
+
+.tune-sidebar {
+  height: 60px;
+  margin-top: 40px;
+  text-align: center;
+  .tune-logo {
+    height: 100%;
+    width: 130px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url('img/tune-logo-white-small.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}
+
+.uni4me-sidebar {
+  height: 80px;
+  margin-top: 40px;
+  text-align: center;
+  .uni4me-logo {
+      height: 100%;
+      width: 80px;
+      margin-left: auto;
+      margin-right: auto;
+      background-image: url('img/uni-4-me-logo.png');
+      background-size: contain;
+      background-repeat: no-repeat;
+  }
+}
+
+/* Fixing left sidebar extention color change */
+
+.hfeed:before {
+	background-color: #333;
+}

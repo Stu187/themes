@@ -1,25 +1,20 @@
 .header-main {
   background-color: green; }
 
-#unesa-circle {
-  height: 45px;
-  width: 40px;
-  position: relative;
-  background-image: url("img/logo-circle.png");
-  background-size: contain;
-  background-repeat: no-repeat;
-  top: 6px;
-  float: left; }
+.site-title {
+  margin-left: 40%; }
+  @media screen and (max-width: 782px) {
+    .site-title {
+      margin-left: 0; } }
 
 #unesa-text {
   background-image: url("img/logo-text.png");
   background-size: contain;
   background-repeat: no-repeat;
   height: 40px;
-  width: 90px;
-  float: left;
-  margin-top: 15px;
-  margin-left: 10px; }
+  width: 130px;
+  margin-top: 12px;
+  margin-right: auto; }
 
 /* HEADER */
 .header-main {
@@ -68,6 +63,9 @@
   transition: all 0.5s;
   overflow: hidden;
   padding-top: 15px; }
+  .csgrid h2 {
+    opacity: 0;
+    transition: all 0.5s; }
   .csgrid:hover {
     border: 1px solid black;
     border-radius: 50%; }
@@ -106,10 +104,6 @@
         .csgrid .csgrid p {
           margin-left: auto;
           margin-right: auto; } }
-
-.grid {
-  opacity: 0;
-  transition: all 0.5s; }
 
 #grid1 {
   background-image: url("img/CSLogos/unews.png");
@@ -160,3 +154,99 @@
   background-image: url("img/CSLogos/isa.png");
   background-repeat: no-repeat;
   background-size: contain; }
+
+#secondary {
+  color: white;
+  text-align: center; }
+  @media screen and (min-width: 1008px) and (max-width: 1079px) {
+    #secondary {
+      padding-left: 10px;
+      padding-right: 10px;
+      width: 162px; } }
+
+@media screen and (max-width: 1007px) {
+  .unesa-sidebar {
+    display: none; }
+
+  .nucleus-sidebar,
+  .tune-sidebar,
+  .uni4me-sidebar {
+    display: inline-block;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-bottom: 30px; } }
+.unesa-sidebar {
+  height: 152px;
+  width: 160px;
+  margin-top: 15px;
+  text-align: center;
+  background-image: url("img/logo-circle.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  transition: all 1s ease;
+  text-align: center; }
+  .unesa-sidebar:hover {
+    transform: rotate(360deg); }
+  .unesa-sidebar:hover + .unesa-sidebar-text {
+    opacity: 1; }
+
+.unesa-sidebar-text {
+  position: absolute;
+  height: 40px;
+  width: 150px;
+  margin-left: 5px;
+  margin-top: -97px;
+  background-image: url("img/logo-text.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 1;
+  -webkit-filter: drop-shadow(5px 5px 8px #000);
+  transition: all 1s ease; }
+  .unesa-sidebar-text:hover {
+    opacity: 1; }
+  .unesa-sidebar-text:hover + .unesa-sidebar {
+    transform: rotate(360deg); }
+
+.nucleus-sidebar {
+  height: 50px;
+  margin-top: 40px;
+  text-align: center; }
+  .nucleus-sidebar .nucleus-logo {
+    height: 100%;
+    width: 160px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("img/nucleus-logo-white.png");
+    background-size: contain;
+    background-repeat: no-repeat; }
+
+.tune-sidebar {
+  height: 60px;
+  margin-top: 40px;
+  text-align: center; }
+  .tune-sidebar .tune-logo {
+    height: 100%;
+    width: 130px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("img/tune-logo-white-small.png");
+    background-size: contain;
+    background-repeat: no-repeat; }
+
+.uni4me-sidebar {
+  height: 80px;
+  margin-top: 40px;
+  text-align: center; }
+  .uni4me-sidebar .uni4me-logo {
+    height: 100%;
+    width: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("img/uni-4-me-logo.png");
+    background-size: contain;
+    background-repeat: no-repeat; }
+
+/* Fixing left sidebar extention color change */
+.hfeed:before {
+  background-color: #333; }

@@ -24,6 +24,10 @@
   transition: all 0.5s;
   overflow: hidden;
   padding-top: 15px;
+  h2 {
+    opacity: 0;
+    transition: all 0.5s;
+  }
   &:hover {
     p {
       opacity: 0;
@@ -73,10 +77,7 @@
 }
 
 
-.grid {
-  opacity: 0;
-  transition: all 0.5s;
-}
+
 
 #grid1 {
   background-image: url('img/CSLogos/unews.png');

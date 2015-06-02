@@ -1003,6 +1003,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/twentyfourteenchild\/img\/CSLogos\/uneas.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 132096,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/uneas.jpg",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/uneas.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/uneas.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 659492,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/uneas.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/uneas.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/twentyfourteenchild\/img\/CSLogos\/unews.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1264,6 +1286,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/twentyfourteenchild\/sass\/_csgrid.scss",
 		"outputAbbreviatedPath": "\/twentyfourteenchild\/css\/_csgrid.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/twentyfourteenchild\/sass\/_footer.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/sass\/_footer.scss",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/css\/_footer.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,

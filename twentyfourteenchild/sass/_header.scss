@@ -17,6 +17,9 @@
 		@media screen and (max-width: 782px) {
 			margin-left: 0;
 		}
+		a {
+			width: 150px;
+		}
 }
 
 #unesa-text {
@@ -26,8 +29,10 @@
 	height: 40px;
 	width: 130px;
 	// float: left;
-	margin-top: 12px;
+	margin-top: 9px;
 	margin-right: auto;
+	margin-left: auto;
+	-webkit-filter: drop-shadow(2px 2px 3px rgba(0, 0, 0, 0.4));
 }
 
 
@@ -39,19 +44,15 @@
 /* HEADER */
 
 .header-main {
-	height: 52px;
+	height: 48px;
 }
 
 
 /* Header Nav */
 
 .primary-navigation {
+	transition: all 0.5s;
 	clear: both;
-}
-
-.primary-navigation.toggled-on {
-	background-color: #333;
-
 }
 
 .primary-navigation ul a {
@@ -59,5 +60,19 @@
 	&:hover {
 	background-color: #24890d;
 	color: #fff;
+	}
+}
+
+// Nav for small screens
+
+.primary-navigation.toggled-on {
+	background-color: rgba(0, 0, 0, 0.8);
+	@media screen and (max-width: 700px) {
+		padding: 20px;
+		border-radius: 0px 0px 5px 5px;
+		li {
+			padding: 8px;
+			font-size: 16px;
+		}
 	}
 }

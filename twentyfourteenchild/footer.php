@@ -17,8 +17,17 @@
 			<?php get_sidebar( 'footer' ); ?>
 
 			<div class="site-info">
-				<?php do_action( 'twentyfourteen_credits' ); ?>
-				<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'twentyfourteen' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'twentyfourteen' ), 'WordPress' ); ?></a>
+
+				<!-- Disabled wordpress footer text -->
+					<!-- <?php do_action( 'twentyfourteen_credits' ); ?>
+					<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'twentyfourteen' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'twentyfourteen' ), 'WordPress' ); ?></a> -->
+
+				<!-- Custom footer text -->
+					<p>&copy <?php echo date('Y'); ?> <a href="mailto:unesa@une.edu.au">UNESA</a> | Website Design by
+						<a href="mailto:stu.j.horsfield@gmail.com">Stu Horsfield</a>
+					</p>
+
+
 			</div><!-- .site-info -->
 		</footer><!-- #colophon -->
 	</div><!-- #page -->

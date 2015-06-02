@@ -14,7 +14,10 @@
 
 @media screen and (max-width: 1007px) {
   .unesa-sidebar {
-  display: none;
+    display: none;
+  }
+  .unesa-sidebar-text {
+    display: none;
   }
   .nucleus-sidebar,
   .tune-sidebar,
@@ -36,6 +39,7 @@
   background-repeat: no-repeat;
   transition: all 1s ease;
   text-align: center;
+  -webkit-filter: drop-shadow(5px 5px 6px rgba(0, 0, 0, 0.4));
   &:hover {
     transform: rotate(360deg);
   }
@@ -45,6 +49,7 @@
 }
 
 .unesa-sidebar-text {
+  display: none;
   position: absolute;
   height: 40px;
   width: 150px;

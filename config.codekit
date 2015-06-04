@@ -692,6 +692,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/twentyfourteen\/js\/angular.min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/twentyfourteen\/js\/angular.min.js",
+		"outputAbbreviatedPath": "\/twentyfourteen\/js\/min\/angular.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/twentyfourteen\/js\/customizer.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -915,6 +926,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/twentyfourteenchild\/img\/CSLogos\/aspire.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54223,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/aspire.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/aspire.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/aycc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29577,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/aycc.jpg",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/aycc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/aycc.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/aycc.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/aycc.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/cssa.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8850,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/cssa.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/cssa.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/twentyfourteenchild\/img\/CSLogos\/enactus.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -937,6 +992,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/twentyfourteenchild\/img\/CSLogos\/gsma.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8660,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/gsma.jpg",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/gsma.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/twentyfourteenchild\/img\/CSLogos\/gsma.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -955,6 +1021,17 @@
 		"initialSize": 63255,
 		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/isa.png",
 		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/isa.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/kiaa.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36952,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/kiaa.jpg",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/kiaa.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -992,6 +1069,105 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/twentyfourteenchild\/img\/CSLogos\/musa.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39581,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/musa.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/musa.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/nercha.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17866,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/nercha.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/nercha.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/no-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7663,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/no-logo.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/no-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/phune.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33119,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/phune.jpg",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/phune.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/rsus.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29172,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/rsus.jpg",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/rsus.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/saudi.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28601,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/saudi.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/saudi.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/sfc.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14520,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/sfc.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/sfc.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/tmp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16212,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/tmp.jpg",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/tmp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/tmp.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53959,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/tmp.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/tmp.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/twentyfourteenchild\/img\/CSLogos\/townies.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1025,6 +1201,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/twentyfourteenchild\/img\/CSLogos\/uneebs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40098,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/uneebs.jpg",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/uneebs.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/unees.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26767,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/unees.jpg",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/unees.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/unemsa.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54703,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/unemsa.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/unemsa.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/unentas.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46904,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/unentas.jpg",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/unentas.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/uness.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58615,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/uness.jpg",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/uness.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/twentyfourteenchild\/img\/CSLogos\/unews.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1032,6 +1263,28 @@
 		"initialSize": 25554,
 		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/unews.png",
 		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/unews.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/CSLogos\/zoology.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31015,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/zoology.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/CSLogos\/zoology.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/doc-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5945,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/doc-icon.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/doc-icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1124,6 +1377,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/twentyfourteenchild\/img\/mic-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6699,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/mic-icon.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/mic-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/nucleus-link.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23712,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/nucleus-link.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/nucleus-link.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/twentyfourteenchild\/img\/nucleus-logo-black.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1153,6 +1428,17 @@
 		"initialSize": 75012,
 		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/nucleus-logo.png",
 		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/nucleus-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twentyfourteenchild\/img\/tune-link.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41022,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/tune-link.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/tune-link.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1201,6 +1487,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/twentyfourteenchild\/img\/Tune-with-alien-small2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40194,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/img\/Tune-with-alien-small2.png",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/img\/Tune-with-alien-small2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/twentyfourteenchild\/img\/UNESA\/logo-circle.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1233,6 +1530,48 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
+		},
+	"\/twentyfourteenchild\/js\/angular.min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/js\/angular.min.js",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/js\/min\/angular.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/twentyfourteenchild\/js\/app.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/js\/app.js",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/js\/min\/app-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/twentyfourteenchild\/js\/mainController.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/js\/mainController.js",
+		"outputAbbreviatedPath": "\/twentyfourteenchild\/js\/min\/mainController-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/twentyfourteenchild\/page-templates\/club-soc-ang.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/twentyfourteenchild\/page-templates\/club-soc-ang.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/twentyfourteenchild\/page-templates\/club-soc.php": {
 		"fileType": 8192,

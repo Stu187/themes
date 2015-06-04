@@ -1,6 +1,6 @@
 <?php
 /**
- * Template Name: Clubs and Societies
+ * Template Name: Clubs and Societies w/angular
  *
  */
 
@@ -33,10 +33,13 @@ get_header(); ?>
 			?>
 
 			<div class="csgridcontainer" ng-app="csGrid" ng-controller="mainController">
-				<a href="https://www.facebook.com/groups/359740764124471/"> <div class="csgrid">
-					<p id="grid1"></p><h2 class="two-line">UNE Women's Society</h2>
-				</div> </a>
-				<a href="http://unelss.org/"> <div class="csgrid">
+				<div ng-repeat="soc in socs">
+          <a href="{{ soc.link }}" target="_blank"> <div class="csgrid">
+  					<img src="<?php echo get_template_directory_uri();?>/../twentyfourteenchild/img/CSLogos/{{ soc.logo }}" alt="{{soc.name}}" />
+            <h2 class="{{ soc.lines }}">{{ soc.name }}</h2>
+  				</div> </a>
+        </div>
+        <!-- <a href="http://unelss.org/"> <div class="csgrid">
 					<p id="grid2"></p><h2 class="three-line">UNE Law <br>Student's <br>Society</h2>
 				</div> </a>
 				<a href="https://www.facebook.com/groups/gaygsma/"> <div class="csgrid">
@@ -73,10 +76,10 @@ get_header(); ?>
 				</div> </a>
 
 				<!-- Call for missing clubs -->
-				<p id="callout">
+				<!-- <p id="callout">
 					If you run a Club or Society and don't see it listed above,
 					<a href="mailto:unesawebmaster@gmail.com">let us know</a>!
-				</p>
+				</p> -->
 
 			</div>
 
